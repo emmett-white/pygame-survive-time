@@ -1,6 +1,9 @@
 # pygame-survive-time
 My first project in pygame.. (still learning)
 
+## Credits
+- dakyskye - discord help...
+
 ## Images
 ```bash
 py main.py
